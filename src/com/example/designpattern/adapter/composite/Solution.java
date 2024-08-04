@@ -1,8 +1,6 @@
-package com.example.designpattern.adapter;
+package com.example.designpattern.adapter.composite;
 
-import com.example.designpattern.adapter.caramel.Caramel;
-import com.example.designpattern.adapter.caramel.CaramelAdapter;
-import com.example.designpattern.adapter.caramel.CaramelFilter;
+import com.example.designpattern.adapter.composite.caramel.CaramelAdapter;
 
 public class Solution {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.example.designpattern.adapter;
+package com.example.designpattern.adapter.composite;
 
 public class VividFilter implements  Filter{
 

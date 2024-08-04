@@ -1,6 +1,6 @@
-package com.example.designpattern.adapter.caramel;
+package com.example.designpattern.adapter.composite.caramel;
 
-import com.example.designpattern.adapter.Image;
+import com.example.designpattern.adapter.composite.Image;
 
 public class Caramel {
 
